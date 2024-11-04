@@ -2,7 +2,7 @@
 ![IceCream](https://socialify.git.ci/IceCreamMC/IceCream/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fgithub.com%2FIceCreamMC%2F.github%2Fblob%2Fmain%2Flogo%2F153784457.png%3Fraw%3Dtrue&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
 
 **IceCreamMC** is a fork of Purpur that adds new configurations to enhance the user experience!
-## PLEASE NOTE THAT THIS REPO HAS BEEN ARCHIVED IN FAVOR OF OUR NEW SERVER SOFTWARE RUNNING ON A CUSTOM API, AND IT IS NO LONGER SUPPORTED.
+## PLEASE NOTE THAT THIS REPO HAS BEEN ARCHIVED IN FAVOR OF OUR [NEW SERVER SOFTWARE](https://docs.icecreammc.xyz) RUNNING ON A CUSTOM API, AND IT IS NO LONGER SUPPORTED.
 
 
 ## Downloads & Documentation
